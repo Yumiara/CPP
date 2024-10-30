@@ -10,7 +10,7 @@ elseif game.GameId == 1235188606 then -- Dragon Adventure
 elseif game.GameId == 2440500124 then -- Door
 	game.GetService(game, "Players").LocalPlayer:Kick("Check status");
 elseif game.GameId == 2294168059 then -- The Mimic
-	scrName = 'https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/API_P.cpp';
+	scrName = 'https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/API_K.cpp';
 elseif game.GameId == 1000233041 then -- SCP
 	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/SCP3008.py';
 elseif game.GameId == 5569032992 then -- Dandy World

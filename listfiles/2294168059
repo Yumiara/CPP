@@ -1,0 +1,1 @@
+game.GetService(game, "Players").LocalPlayer:Kick("Check status");

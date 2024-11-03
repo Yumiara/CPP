@@ -6,7 +6,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Script",Text
 if game.GameId == 4367208330 then -- Pressure
 	game.GetService(game, "Players").LocalPlayer:Kick("Check status");
 elseif game.GameId == 1235188606 then -- Dragon Adventure
-	game.GetService(game, "Players").LocalPlayer:Kick("Updating, Please check status");
+	scrName = 'https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/API_K.cpp';
 elseif game.GameId == 2440500124 then -- Door
 	game.GetService(game, "Players").LocalPlayer:Kick("Check status");
 elseif game.GameId == 2294168059 then -- The Mimic

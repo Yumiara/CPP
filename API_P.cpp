@@ -34,6 +34,8 @@ elseif game.GameId == 5750914919 then -- Fisch
 	game.GetService(game, "Players").LocalPlayer:Kick("Check status");
 elseif game.GameId == 3647333358 then -- Evade
 	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/Evade.py';
+elseif game.GameId == 5750914919 then
+	scrName = "https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/listfiles/5750914919";
 end;
 
 -- loadstring of API_K//flags//Luarify//VLSAH//API_A//serizalis

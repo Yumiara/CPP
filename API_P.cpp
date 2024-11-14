@@ -31,7 +31,7 @@ elseif game.GameId == 1000233041 then -- SCP
 elseif game.GameId == 5569032992 then -- Dandy World
 	game.GetService(game, "Players").LocalPlayer:Kick("Updating, Please check status");
 elseif game.GameId == 5750914919 then -- Fisch
-	game.GetService(game, "Players").LocalPlayer:Kick("Check status");
+	scrName = "https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/listfiles/5750914919";
 elseif game.GameId == 3647333358 then -- Evade
 	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/Evade.py';
 elseif game.GameId == 5750914919 then

@@ -29,7 +29,7 @@ elseif game.GameId == 2294168059 then -- The Mimic
 elseif game.GameId == 1000233041 then -- SCP
 	scrName = 'https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/SCP3008.py';
 elseif game.GameId == 5569032992 then -- Dandy World
-	game.GetService(game, "Players").LocalPlayer:Kick("Updating, Please check status");
+	scrName = "https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/listfiles/5569032992";
 elseif game.GameId == 5750914919 then -- Fisch
 	scrName = "https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/listfiles/5750914919";
 elseif game.GameId == 3647333358 then -- Evade

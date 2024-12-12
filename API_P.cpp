@@ -15,8 +15,8 @@ function getfolder(obj)
     end;
 end;
 
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Script",Text = "Loading, Please wait.Don't re-execute,if it take long time then re-execute",Duration = 10})
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Script",Text = "After check key, sometimes you have to re-execute to make tthe script show",Duration = 10})
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Script",Text = "Loading, Please wait.Don't re-execute yet",Duration = 10})
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Script",Text = "After check key, sometimes you have to re-execute to make the script show",Duration = 10})
 
 if game.GameId == 4367208330 then -- Pressure
 	game.GetService(game, "Players").LocalPlayer:Kick("Check status");

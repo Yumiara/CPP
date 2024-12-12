@@ -38,6 +38,8 @@ elseif game.GameId == 5750914919 then
 	scrName = "https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/listfiles/5750914919";
 elseif game.GameId == 994732206 then -- Bloxfruit
 	scrName = 'https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/listfiles/994732206';
+else
+	scrName = "https://raw.githubusercontent.com/Yumiara/CPP/refs/heads/main/Uni.lua";
 end;
 
 -- loadstring of API_K//flags//Luarify//VLSAH//API_A//serizalis
